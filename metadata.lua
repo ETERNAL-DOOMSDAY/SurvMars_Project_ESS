@@ -1,0 +1,15 @@
+return PlaceObj('ModDef', {
+	'title', "Project Eternal Space",
+	'description', "My first surviving mars mods.\n\nAdds game rules, commander profile\nAlso I will add new sponsor, color scheme, challenges(those are coming soon)",
+	'last_changes', "First version",
+	'id', "Lb3t6TR",
+	'pops_desktop_uuid', "ab6e9c1a-96ab-47b7-9362-9fd2f781f3d0",
+	'pops_any_uuid', "98fb07aa-310c-42d3-a6f4-f7536013355a",
+	'author', "Eternal Doomsday",
+	'version', 41,
+	'lua_revision', 233360,
+	'saved_with_revision', 240905,
+	'code', {"Code/TechFieldPreset.lua"},
+	'saved', 1555745402,
+	'TagCommanderProfiles', true,
+})
