@@ -6,10 +6,10 @@ return PlaceObj('ModDef', {
 	'pops_desktop_uuid', "ab6e9c1a-96ab-47b7-9362-9fd2f781f3d0",
 	'pops_any_uuid', "98fb07aa-310c-42d3-a6f4-f7536013355a",
 	'author', "Eternal Doomsday",
-	'version', 49,
+	'version', 55,
 	'lua_revision', 233360,
 	'saved_with_revision', 240905,
-	'code', {"Code/ExtraColony.lua"},
-	'saved', 1555826582,
+	'code', {"Code/ESS_Init.lua"},
+	'saved', 1555843881,
 	'TagCommanderProfiles', true,
 })
