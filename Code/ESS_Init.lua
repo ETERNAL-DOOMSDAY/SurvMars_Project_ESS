@@ -33,7 +33,7 @@ PlaceObj('TechFieldPreset', {
 	description = T(1150001, --[[TechFieldPreset Computing description]] "The <em>Computing</em> field deals with <em>Artificial Intelligence</em> and <em>Computer</em>."),
 	display_name = T(1150000, --[[TechFieldPreset Computing display_name]] "COMPUTING"),
 	group = "Default",
-	hex_direction = 6,
+	hex_direction = 4,
 	icon = "UI/Icons/Research/social.tga",
 	id = "ESS_Computing",
 })
@@ -66,7 +66,7 @@ PlaceObj('TechFieldPreset', {
 	description = T(1150011, --[[TechFieldPreset Chemistry description]] "The <em>Chemistry</em> field deals with <em>chemicals</em>."),
 	display_name = T(1150010, --[[TechFieldPreset Chemistry display_name]] "CHEMISTRY"),
 	group = "Default",
-	hex_direction = 7,
+	hex_direction = 5,
 	icon = "UI/Icons/Research/social.tga",
 	id = "ESS_Chemistry",
 })
@@ -99,7 +99,7 @@ PlaceObj('TechFieldPreset', {
 	description = T(1150021, --[[TechFieldPreset Architecture description]] "The <em>Architecture</em> field deals with <em>Buildings</em>."),
 	display_name = T(1150020, --[[TechFieldPreset Architecture display_name]] "ARCHITECTURE"),
 	group = "Default",
-	hex_direction = 8,
+	hex_direction = 4,
 	icon = "UI/Icons/Research/social.tga",
 	id = "ESS_Architecture",
 })
@@ -133,14 +133,14 @@ PlaceObj('TechFieldPreset', {
 	description = T(1150031, --[[TechFieldPreset Applicant Gathering description]] "The <em>Applicant Gathering</em> field deals with <em>Getting Applicants</em>."),
 	display_name = T(1150030, --[[TechFieldPreset Gathering display_name]] "APPLICANT"),
 	group = "Default",
-	hex_direction = 9,
+	hex_direction = 5,
 	icon = "UI/Icons/Research/social.tga",
 	id = "ESS_Applicant_Gathering",
 })
 PlaceObj('TechFieldPreset', {
 	SortKey = 10000,
 	discoverable = false,
-	display_name = T(1150090, --[[TechFieldPreset Singularity display_name]] "Story Bits"),
+	display_name = T(1150090, --[[TechFieldPreset Singularity display_name]] "Singularity"),
 	group = "Default",
 	id = "ESS_Singularity",
 	show_in_field = "Breakthroughs",
